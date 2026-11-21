@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "accentColor": "#06b259"
+  "accentColor": "#06b259",
+  "showRibbon": true
 }
